@@ -9,6 +9,8 @@ Map your hood! ist eine **OpenStreetMap Mapping Party im Bezirk Gries**, in dem 
 - [Website](http://okfn.at/2016/03/15/map-your-hood/)
 - Veranstaltung: [Open Knowledge Austria](http://okfn.at) und [OpenStreetMap Graz](https://wiki.openstreetmap.org/wiki/Graz) in Kooperation mit der [Studienvertretung Geographie der Uni Graz](http://geographie.uni-graz.at/) und dem Projekt [Open Science @ Uni Graz](http://openscienceasap.org/projects-resources/open-science-at-uni-graz/) des Alternativ-Referats der ÖH Uni Graz.
 
+Vielen Dank ans Büro der Nachbarschaften des [StadtLABOR](www.stadtlaborgraz.at/) für das zur Verfügung stellen der Räumlichkeiten und die Unterstützung.
+
 Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
 ## ABLAUF
