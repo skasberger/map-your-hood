@@ -5,6 +5,7 @@ Map your hood! ist eine **OpenStreetMap Mapping Party im Bezirk Gries**, in dem 
 
 - Datum: 25. März 2016
 - Ort: Büro der Nachbarschaften, Gries, Graz
+- Betreuer: [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria) und Michael Maier (OpenStreetMap Graz)
 - [Website](http://okfn.at/2016/03/15/map-your-hood/)
 - Veranstaltung: [Open Knowledge Austria](http://okfn.at) und [OpenStreetMap Graz](https://wiki.openstreetmap.org/wiki/Graz) in Kooperation mit der [Studienvertretung Geographie der Uni Graz](http://geographie.uni-graz.at/) und dem Projekt [Open Science @ Uni Graz](http://openscienceasap.org/projects-resources/open-science-at-uni-graz/) des Alternativ-Referats der ÖH Uni Graz.
 
