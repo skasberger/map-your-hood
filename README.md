@@ -3,7 +3,7 @@ Map Your Hood!
 
 Map your hood! ist eine **OpenStreetMap Mapping Party im Bezirk Gries**, in dem Restaurants und Cafes in die OpenStreetMap eingetragen werden sollen. OpenStreetMap ist die Wikipedia für geographische Informationen, und steht somit allen frei zu nutzen, bearbeiten und teilen.
 
-- Datum: 25. März 2016
+- Datum: 25. März 2016, 14-18 Uhr
 - Ort: Büro der Nachbarschaften, Gries, Graz
 - Betreuer: [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria) und Michael Maier (OpenStreetMap Graz)
 - [Website](http://okfn.at/2016/03/15/map-your-hood/)
@@ -12,6 +12,11 @@ Map your hood! ist eine **OpenStreetMap Mapping Party im Bezirk Gries**, in dem 
 Vielen Dank ans Büro der Nachbarschaften des [StadtLABOR](www.stadtlaborgraz.at/) für das zur Verfügung stellen der Räumlichkeiten und die Unterstützung.
 
 Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
+
+**Mitbringen**
+- Laptop mit Maus und Netzteil
+- Cam: Smartphone oder DigiCam → voll aufladen. Für Fotos von Hausfront und eventuell Öffnungszeiten-Schild. Es wird nur eine Cam pro Gruppe gebraucht.
+- Fahrrad: für weiter weg gelegene Gebiete. Brauchen nicht alle.
 
 ## ABLAUF
 
@@ -25,17 +30,12 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 | 16:45 - 18:00 | Daten in OpenStreetMap eintragen|
 | 18:00         | ENDE |
 
-**Mitbringen**
-- Laptop mit Maus und Netzteil
-- Cam: Smartphone oder DigiCam → voll aufladen. Für Fotos von Hausfront und eventuell Öffnungszeiten-Schild. Es wird nur eine Cam pro Gruppe gebraucht.
-- Fahrrad: für weiter weg gelegene Gebiete. Brauchen nicht alle.
-
 ### 1. Einführung OpenStreetMap
 
 1. Willkommen
-2. Was machen wir heute?
-3. Was ist OpenStreetMap?
-4. Was ist eine Mapping Party?
+2. Vorstellungsrunde
+3. Was machen wir heute?
+4. Was ist OpenStreetMap?
 5. Fragen
 
 **Quellen**
@@ -76,11 +76,11 @@ Wenn hier strukturiert vorgegangen wird, geht nachher beim Eintragen der Daten i
 **[Field Papers](http://fieldpapers.org/)**
 - [Griesplatz Süd](http://www.fieldpapers.org/atlases/3i3c3dp1)
 - [Griesgasse](http://www.fieldpapers.org/atlases/zfrsk36x)
-- [Rösslmühlgasse + Griesplatz](http://www.fieldpapers.org/atlases/42xpaglg)
+- [Rösslmühlgasse + Griesplatz Nord](http://www.fieldpapers.org/atlases/42xpaglg)
 - [Idlhofgasse - Elisabethinnengasse](http://www.fieldpapers.org/atlases/2ofxenzo)
-- [Annenstraße Ost](http://www.fieldpapers.org/atlases/4uh1764x)
-- [Annenstraße Ost-Mitte](http://www.fieldpapers.org/atlases/2grli0tg)
-- [Annenstraße West-Mitte](http://www.fieldpapers.org/atlases/3ihbxon4)
+- [Südtirolerplatz](http://www.fieldpapers.org/atlases/ptumfykj)
+- [Annenstraße Mitte-Ost](http://www.fieldpapers.org/atlases/2grli0tg)
+- [Annenstraße Mitte-West](http://www.fieldpapers.org/atlases/3ihbxon4)
 - [Annenstraße West](http://www.fieldpapers.org/atlases/67oseicf)
 - [Belgiergasse](http://www.fieldpapers.org/atlases/1gil2l1f)
 
@@ -143,6 +143,14 @@ Die selbst-gesammelten Daten werden in JOSM eingetragen und am Ende in die OpenS
 		- Toiletten (falls vorhanden): nicht rollstuhlgerecht
 - [source](https://wiki.openstreetmap.org/wiki/DE:Key:source):name=survey
 - [source](https://wiki.openstreetmap.org/wiki/DE:Key:source):addr=survey
+
+## REPOSITORY
+**files**
+- assets/slides.odt: Folien für die Mapping Party
+- assets/notes-mapper.odt: Notiz-Zettel für die Mapper
+- assets/table.odt: Tabelle für die Attribute
+- assets/newsletter.odt: Newsletter Liste
+- assets/timetable+url.odt: Zettel mit Shorturl und Timetable zum Aushängen
 
 
 
