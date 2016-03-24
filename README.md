@@ -93,8 +93,8 @@ In den Gruppen draußen in Gries herum gehen und die Daten sammeln.
 ### 5. Einführung JOSM Editor
 Kurze Einführung in [JOSM](https://josm.openstreetmap.de/), dem OpenStreetMap Editor. Damit können ganz einfach am Laptop/PC die Daten aus der OpenStreetMap bearbeitet werden.
 
-1. JOSM [runterladen]() und installieren
-2. Account bei [OpenStreetMap]() anlegen
+1. JOSM [runterladen](http://josm.openstreetmap.de/) und installieren
+2. Account bei [OpenStreetMap](https://www.openstreetmap.org/) anlegen
 3. JOSM starten
 4. JOSM erklären
 5. OpenStreetMap Account authentifizieren
@@ -106,7 +106,7 @@ Kurze Einführung in [JOSM](https://josm.openstreetmap.de/), dem OpenStreetMap E
 Eine Liste mit allen Map-Features die es in der OpenStreetMap gibt, ist [hier](https://wiki.openstreetmap.org/wiki/Map_Features) zu finden.
 
 **Beachten**
-- Text in ganz normaler Sprache, also mit Umlauten und Scharfen-ß.
+- Text in ganz normaler Sprache, also mit Umlauten und Scharfen-ß (Technisch: arbeitet mit UTF-8).
 
 ### 6. Daten in OpenStreetMap eintragen
 Die selbst-gesammelten Daten werden in JOSM eingetragen und am Ende in die OpenStreetMap hochgeladen.
@@ -130,7 +130,7 @@ Die selbst-gesammelten Daten werden in JOSM eingetragen und am Ende in die OpenS
 	- isolated → Rauchen ist in einem Raum verboten, in einem anderen erlaubt, und die beiden Räume sind wirksam voneinander getrennt (z.B. durch geschlossene Wände und eine Tür, die stets nur so lange geöffnet wird, wie es zum Passieren notwendig ist). 
 - [wheelchair](https://wiki.openstreetmap.org/wiki/DE:Key:wheelchair)
 	- yes → nur verwenden, wenn für ganze Räumlichkeit sichergestellt
-		- Eingang: stufenlos
+		- Eingang: stufenlos (max. 3cm)
 		- Räume: stufenlos erreichbar
 		- Toiletten (falls vorhanden): rollstuhlgerechte Kabine (ein Rollstuhl passt neben das WC)
 	- limited
@@ -141,8 +141,7 @@ Die selbst-gesammelten Daten werden in JOSM eingetragen und am Ende in die OpenS
 		- Eingang: Stufe ist höher als 7 cm ('eine Hand breit')
 		- Räume: die wichtigsten sind nicht stufenlos erreichbar
 		- Toiletten (falls vorhanden): nicht rollstuhlgerecht
-- [source](https://wiki.openstreetmap.org/wiki/DE:Key:source):name=survey
-- [source](https://wiki.openstreetmap.org/wiki/DE:Key:source):addr=survey
+- [source](https://wiki.openstreetmap.org/wiki/DE:Key:source)=survey
 
 ## REPOSITORY
 **files**
