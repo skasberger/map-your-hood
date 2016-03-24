@@ -1,11 +1,12 @@
 Map Your Hood!
 ==============================
 
-Map your hood! ist eine **[OpenStreetMap](http://openstreetmap.org/) Mapping Party im Bezirk Gries**, in dem Restaurants und Cafes in die OpenStreetMap eingetragen werden sollen. OpenStreetMap ist die Wikipedia für geographische Informationen, und steht somit allen frei zu nutzen, bearbeiten und teilen.
+Map your hood! ist eine **OpenStreetMap Mapping Party im Bezirk Gries**, in dem Restaurants und Cafes in die OpenStreetMap eingetragen werden sollen. OpenStreetMap ist die Wikipedia für geographische Informationen, und steht somit allen frei zu nutzen, bearbeiten und teilen.
 
 - Datum: 25. März 2016
 - Ort: Büro der Nachbarschaften, Gries, Graz
-- Veranstaltung: [Open Knowledge Austria](http://okfn.at/2016/03/15/map-your-hood/)
+- [Website](http://okfn.at/2016/03/15/map-your-hood/)
+- Veranstaltung: [Open Knowledge Austria](http://okfn.at) und [OpenStreetMap Graz](https://wiki.openstreetmap.org/wiki/Graz) in Kooperation mit der [Studienvertretung Geographie der Uni Graz](http://geographie.uni-graz.at/) und dem Projekt [Open Science @ Uni Graz](http://openscienceasap.org/projects-resources/open-science-at-uni-graz/) des Alternativ-Referats der ÖH Uni Graz.
 
 Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
@@ -21,6 +22,11 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 | 16:45 - 18:00 | Daten in OpenStreetMap eintragen|
 | 18:00         | ENDE |
 
+**Mitbringen**
+- Laptop mit Maus und Netzteil
+- Cam: Smartphone oder DigiCam → voll aufladen. Für Fotos von Hausfront und eventuell Öffnungszeiten-Schild. Es wird nur eine Cam pro Gruppe gebraucht.
+- Fahrrad: für weiter weg gelegene Gebiete. Brauchen nicht alle.
+
 ### 1. Einführung OpenStreetMap
 
 1. Willkommen
@@ -30,9 +36,9 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 5. Fragen
 
 **Quellen**
+- [OpenStreetMap](openstreetmap.org)
 - [OpenStreetMap Austria](https://wiki.openstreetmap.org/wiki/WikiProject_Austria)
 - [OpenStreetMap Graz](https://wiki.openstreetmap.org/wiki/Graz)
-- [OpenStreetMap](openstreetmap.org)
 - [Mapping Party](http://wiki.openstreetmap.org/wiki/Mapping_parties)
 
 ### 2. Vorbereitung Daten sammeln
@@ -65,15 +71,15 @@ Die Gruppen auf das Sammeln der Daten im Gelände draußen vorbereiten.
 Wenn hier strukturiert vorgegangen wird, geht nachher beim Eintragen der Daten in die OpenStreetMap alles ganz einfach.
 
 **[Field Papers](http://fieldpapers.org/)**
-- [Griesplatz]()
-- [Griesgasse]()
-- [Rösslmühlgasse]()
-- [Idlhofgasse/Elisabethinnengasse]()
-- [Annenstraße Ost]()
-- [Annenstraße Ost-Mitte]()
-- [Annenstraße West-Mitte]()
-- [Annenstraße West]()
-- [Belgiergasse]()
+- [Griesplatz Süd](http://www.fieldpapers.org/atlases/3i3c3dp1)
+- [Griesgasse](http://www.fieldpapers.org/atlases/zfrsk36x)
+- [Rösslmühlgasse + Griesplatz](http://www.fieldpapers.org/atlases/42xpaglg)
+- [Idlhofgasse - Elisabethinnengasse](http://www.fieldpapers.org/atlases/2ofxenzo)
+- [Annenstraße Ost](http://www.fieldpapers.org/atlases/4uh1764x)
+- [Annenstraße Ost-Mitte](http://www.fieldpapers.org/atlases/2grli0tg)
+- [Annenstraße West-Mitte](http://www.fieldpapers.org/atlases/3ihbxon4)
+- [Annenstraße West](http://www.fieldpapers.org/atlases/67oseicf)
+- [Belgiergasse](http://www.fieldpapers.org/atlases/1gil2l1f)
 
 ### 3. Daten sammeln
 In den Gruppen draußen in Gries herum gehen und die Daten sammeln.
