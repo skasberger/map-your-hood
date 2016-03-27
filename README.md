@@ -156,7 +156,8 @@ Eine Liste mit allen Map-Features die es in der OpenStreetMap gibt, ist [hier](h
 
 ## REPOSITORY
 **files**
-- [assets/slides.odt](assets/slides.odt): Folien für die Mapping Party
+- [organisieren.md](organisieren.md): Infos zur Organisation der Mapping Party
+- [assets/slides.odp](assets/slides.odp): Folien für die Mapping Party
 - [assets/notes-mapper.odt](assets/notes-mapper.odt): Notiz-Zettel für die Mapper
 - [assets/table.odt](assets/table.odt): Tabelle für die Attribute
 - [assets/newsletter.odt](assets/newsletter.odt): Newsletter Liste
