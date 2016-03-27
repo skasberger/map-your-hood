@@ -14,7 +14,7 @@ Vielen Dank ans Büro der Nachbarschaften des [StadtLABOR](www.stadtlaborgraz.at
 Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
 **Mitbringen**
-- Laptop mit Maus und Netzteil
+- Laptop mit Maus + Netzteil: [Java](https://www.java.com) muss installiert sein.
 - Cam: Smartphone oder DigiCam → voll aufladen. Für Fotos von Hausfront und eventuell Öffnungszeiten-Schild. Es wird nur eine Cam pro Gruppe gebraucht.
 - Fahrrad: für weiter weg gelegene Gebiete. Brauchen nicht alle.
 
@@ -34,7 +34,7 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 
 1. Willkommen
 2. Vorstellungsrunde
-3. Was machen wir heute?
+3. Was wir heute machen
 4. Was ist OpenStreetMap?
 5. Fragen
 
@@ -47,23 +47,24 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 ### 2. Vorbereitung Daten sammeln
 Die Gruppen auf das Sammeln der Daten im Gelände draußen vorbereiten.
 
-1. Gruppen bilden: 2-3 Personen (wenn geht eine erfahrene) + Kamera
-2. Aussuchen des Gebietes und nehmen des Field Paper Sets
-3. Welche Informationen sollen gesammelt werden: Restaurants und Cafes in Gries
+1. Gruppen bilden: 2-3 Personen (wenn geht eine erfahrene Person pro Gruppe) + Kamera
+2. Welche Informationen sollen gesammelt werden: Restaurants und Cafes in Gries
 	- Adresse
 	- Name
 	- Rollstuhltauglichkeit
 	- Raucherbereich
 	- Küche → Kebab
 	- Öffnungszeiten: Fotos von Schild. Aufpassen, dass es scharf ist!
-4. Field Papers erklären
-5. Ablauf wiederholen
-	- Punkt auf Karte ansehen
+3. Aussuchen des Gebietes und nehmen des Field Paper Sets
+	- Field Papers ausgeben
+	- Gebiet für jede Gruppe klären
+	- Set: Field Papers, Tabelle, Notizen, Stift und Kamera
+4. Ablauf wiederholen
+	- Punkt auf Karte ansehen und eintragen (→ Kürzel)
 	- Daten eintragen in Liste
-	- Foto von Front machen, eventuell von Öffnungszeiten-Schild. Fotos so machen, dass von Schild auf Front also auf Adresse rückgeschlossen werden kann.
-	- Daten in Karte eintragen
-	- Nächster Punkt und wieder von vorne
-6. Checken, ob alles passt:
+	- Foto von Front machen, eventuell von Öffnungszeiten-Schild. Fotos so machen, dass von Schild auf die Front des Hauses, also auf Adresse, rückgeschlossen werden kann.
+	- Nächster Punkt und Schritte 1-3 wieder von vorne
+5. Checken, ob alles passt:
 	- Ablauf
 	- Field Paper und Gebiets-Grenzen
 	- Camera
@@ -71,7 +72,7 @@ Die Gruppen auf das Sammeln der Daten im Gelände draußen vorbereiten.
 	- Notizzettel und Tabelle
 
 **Beachten**
-Wenn hier strukturiert vorgegangen wird, geht nachher beim Eintragen der Daten in die OpenStreetMap alles ganz einfach.
+Wenn beim Ausgang im Gelände strukturiert vorgegangen wird, geht nachher beim Eintragen der Daten in die OpenStreetMap alles ganz einfach.
 
 **[Field Papers](http://fieldpapers.org/)**
 - [Griesplatz Süd](http://www.fieldpapers.org/atlases/3i3c3dp1)
@@ -94,26 +95,30 @@ In den Gruppen draußen in Gries herum gehen und die Daten sammeln.
 Kurze Einführung in [JOSM](https://josm.openstreetmap.de/), dem OpenStreetMap Editor. Damit können ganz einfach am Laptop/PC die Daten aus der OpenStreetMap bearbeitet werden.
 
 1. JOSM [runterladen](http://josm.openstreetmap.de/) und installieren
+	- Requirements: [Java](https://www.java.com) installiert, Adware nicht mitinstallieren
 2. Account bei [OpenStreetMap](https://www.openstreetmap.org/) anlegen
 3. JOSM starten
-4. JOSM erklären
-5. OpenStreetMap Account authentifizieren
-6. [Plugin für Öffnungszeiten](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpeningHoursEditor) installieren
-7. Daten zu Kartenausschnitt runter laden
-8. Daten sichern
-9. Daten ansehen
-
-Eine Liste mit allen Map-Features die es in der OpenStreetMap gibt, ist [hier](https://wiki.openstreetmap.org/wiki/Map_Features) zu finden.
+4. OpenStreetMap Account authentifizieren
+5. [Plugin für Öffnungszeiten](https://wiki.openstreetmap.org/wiki/JOSM/Plugins/OpeningHoursEditor) installieren
+6. JOSM erklären: 
+	- Editieren eines bestehenden Objektes
+	- Erstellen eines neuen Objektes: Presets
+	- Maus-Funktionen
+	- Editier-Modus
+	- Selektions-Modus
+	- Download, Upload, Sichern
 
 **Beachten**
 - Text in ganz normaler Sprache, also mit Umlauten und Scharfen-ß (Technisch: arbeitet mit UTF-8).
 
 ### 6. Daten in OpenStreetMap eintragen
-Die selbst-gesammelten Daten werden in JOSM eingetragen und am Ende in die OpenStreetMap hochgeladen.
+Die selbst gesammelten Daten werden in JOSM eingetragen und am Ende in die OpenStreetMap hochgeladen.
 
-1. Einen Datenpunkt nach dem anderen eintragen und sichern
-2. Alle Daten hochladen
-3. Daten ansehen
+1. Daten zu Kartenausschnitt runter laden
+2. Daten sichern
+3. Einen Datenpunkt nach dem anderen eintragen und sichern
+4. Alle Daten hochladen: beim Kommentar das eintragen, was man gemacht hat (z. B. "Restaurants Annenstraße eingetragen")
+5. Daten auf der OpenStreetMap ansehen. Es kann je nach Region einige Minuten bis Stunden dauern, bis die eingetragenen Punkte in den Tiles (Kacheln) gerendert sind. In Graz sollte dies nach einigen Minuten passiert sein. 
 
 **Attribute der Daten**
 - [name](https://wiki.openstreetmap.org/wiki/DE:Key:name) Name des Restaurants, Cafes, Shops, etc.
@@ -143,13 +148,19 @@ Die selbst-gesammelten Daten werden in JOSM eingetragen und am Ende in die OpenS
 		- Toiletten (falls vorhanden): nicht rollstuhlgerecht
 - [source](https://wiki.openstreetmap.org/wiki/DE:Key:source)=survey
 
+Eine Liste mit allen Map-Features die es in der OpenStreetMap gibt, ist [hier](https://wiki.openstreetmap.org/wiki/Map_Features) zu finden.
+
+## SONSTIGES
+- [OSMAnd](http://osmand.net/): Android App 
+- [Who did it?](http://zverik.osm.rambler.ru/whodidit/): Karte die die letzten Eintragungen visualisiert.
+
 ## REPOSITORY
 **files**
-- assets/slides.odt: Folien für die Mapping Party
-- assets/notes-mapper.odt: Notiz-Zettel für die Mapper
-- assets/table.odt: Tabelle für die Attribute
-- assets/newsletter.odt: Newsletter Liste
-- assets/timetable+url.odt: Zettel mit Shorturl und Timetable zum Aushängen
+- [assets/slides.odt](assets/slides.odt): Folien für die Mapping Party
+- [assets/notes-mapper.odt](assets/notes-mapper.odt): Notiz-Zettel für die Mapper
+- [assets/table.odt](assets/table.odt): Tabelle für die Attribute
+- [assets/newsletter.odt](assets/newsletter.odt): Newsletter Liste
+- [assets/timetable+url.odt](assets/timetable+url.odt): Zettel mit Shorturl und Timetable zum Aushängen
 
 
 
