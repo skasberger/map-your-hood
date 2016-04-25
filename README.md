@@ -151,6 +151,7 @@ Die selbst gesammelten Daten werden in JOSM eingetragen und am Ende in die OpenS
 Eine Liste mit allen Map-Features die es in der OpenStreetMap gibt, ist [hier](https://wiki.openstreetmap.org/wiki/Map_Features) zu finden.
 
 ## SONSTIGES
+- [learnOSM](http://learnosm.org/de/beginner/start-osm/): Website, wo man OpenStreetMap Schritt für Schritt lernen kann. Auch auf Deutsch.
 - [OSMAnd](http://osmand.net/): Android App 
 - [Who did it?](http://zverik.osm.rambler.ru/whodidit/): Karte die die letzten Eintragungen visualisiert.
 
